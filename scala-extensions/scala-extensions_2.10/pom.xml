@@ -6,10 +6,10 @@
     <version>0.9.1-SNAPSHOT</version>
   </parent>
   <modelVersion>4.0.0</modelVersion>
-  <artifactId>scala-extensions-2.10</artifactId>
+  <artifactId>scala-extensions_2.10</artifactId>
   <packaging>jar</packaging>
 
-  <name>scala-extensions-2.10</name>
+  <name>scala-extensions_2.10</name>
   <description>Scala extensions for mustache.java</description>
   <url>http://github.com/spullara/mustache.java</url>
 
